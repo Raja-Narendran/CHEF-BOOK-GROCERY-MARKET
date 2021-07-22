@@ -1,4 +1,4 @@
-<?phd
+<?php
 /**
  * Created by PhpStorm.
  * User: ParCan
